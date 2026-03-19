@@ -38,7 +38,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 20px;
+  gap: 25px;
   padding: 40px 20px;
   width: 300px;
   border-radius: 10px;
@@ -54,4 +54,16 @@ p {
 .tempDisplay {
   font-size: 3rem;
   color: hsla(0, 0%, 0%, 0.7);
+}
+
+.humidityDisplay {
+  font-size: 20px;
+}
+
+.descDisplay {
+  font-size: 25px;
+}
+
+.emojiDisplay {
+  font-size: 5rem;
 }
