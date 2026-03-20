@@ -14,6 +14,12 @@ body {
   gap: 20px;
 }
 
+@media (max-width: 600px) {
+  .form {
+    flex-direction: column;
+  }
+}
+
 .input {
   font-size: 2rem;
   padding: 10px;
@@ -35,7 +41,7 @@ body {
 
 .card {
   background: linear-gradient(hsl(200, 60%, 60%), hsl(50, 80%, 70%));
-  display: flex;
+  display: none;
   flex-direction: column;
   align-items: center;
   gap: 25px;
