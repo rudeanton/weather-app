@@ -17,6 +17,7 @@ Technologies:
 
 How to use:
 
-1. Open index.html in your browser
-2. Enter a city name in the input
-3. Click "Get weather" to see the weather info
+1. Insert your own API key from OpenWeather
+2. Open index.html in your browser
+3. Enter a city name on the input
+4. Click "Get weather" to see the weather info

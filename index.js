@@ -1,4 +1,4 @@
-const apiKey = "b45d2b8d899d23bc4cb2b629e71b39bc";
+const apiKey = "PASTE_YOUR_API_KEY_HERE";
 const form = document.querySelector(".form");
 const input = document.querySelector(".input");
 const cityEl = document.querySelector(".cityDisplay");
